@@ -2272,14 +2272,6 @@ button,
     border-top: 0;
     margin-top: 0;
     padding-top: 0; }
-.posts article p {
-    line-height: 1.9;
-}
-
-#banner p {
-    line-height: 1.9;
-}
-
-p {
-    line-height: 1.9;
+body {
+    line-height: 2.0;
 }
